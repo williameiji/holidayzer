@@ -6,7 +6,7 @@
 
 ## About
 
-A simple SPA made in React to test API made in Express that returns dates with holidays.
+A simple SPA made in React to test API made with Node.js and Express that returns holidays of 2022.
 
 ## Built With
 
